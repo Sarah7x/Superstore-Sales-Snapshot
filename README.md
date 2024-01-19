@@ -25,8 +25,8 @@ A systematic approach was utilized, capitalizing on Power BI's data visualizatio
 - **Sales and Profit Trends**: Line and bar charts illustrating sales and profit trends over time.
 - **Category Performance Analysis**: Visual breakdown of sales and profits by product category.
 
-![Superstore Sales Snapshot_page-0001](https://github.com/Sarah7x/Superstore-Sales-Snapshot/assets/152454919/2d3a4364-d5bc-47af-8d6d-ade35d7db391)
-![Superstore Sales Snapshot_page-0002](https://github.com/Sarah7x/Superstore-Sales-Snapshot/assets/152454919/1c0a99be-772d-44a4-bda3-dbc6b761ca66)
+![Superstore Sales Snapshot_page-0001](https://github.com/Sarah7x/Superstore-Sales-Snapshot/assets/152454919/05cd06fe-9e6c-4f07-af0a-c1cfe7696a49)
+![Superstore Sales Snapshot_page-0002](https://github.com/Sarah7x/Superstore-Sales-Snapshot/assets/152454919/e5ff7b76-68c0-4565-b032-0f628c9461d2)
 
 🌟 Conclusions & Strategic Directions
 ---
