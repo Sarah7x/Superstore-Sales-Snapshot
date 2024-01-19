@@ -26,6 +26,7 @@ A systematic approach was utilized, capitalizing on Power BI's data visualizatio
 - **Category Performance Analysis**: Visual breakdown of sales and profits by product category.
 
 ![Superstore Sales Snapshot_page-0001](https://github.com/Sarah7x/Superstore-Sales-Snapshot/assets/152454919/2d3a4364-d5bc-47af-8d6d-ade35d7db391)
+![Superstore Sales Snapshot_page-0002](https://github.com/Sarah7x/Superstore-Sales-Snapshot/assets/152454919/1c0a99be-772d-44a4-bda3-dbc6b761ca66)
 
 🌟 Conclusions & Strategic Directions
 ---
